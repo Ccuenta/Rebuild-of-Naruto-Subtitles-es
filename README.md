@@ -38,3 +38,6 @@ For discussions, updates, or to contribute to the project, join us on Discord:
 **[Rebuild of Naruto Discord](https://discord.gg/yDfYvsDKjR)**
 
 ---
+
+## Informacion extra
+La traduccion tal vez tenga errores, no es perfecta, no me molestaria que me ayudaran con en eso. tal vez con el tiempo mejore calidad, muchisimas gracias por leer, mas que todo hago esto ya que no hay version en español y como githbu facilita los archivos .srt quise traducir algunos capitulos como prueba.
