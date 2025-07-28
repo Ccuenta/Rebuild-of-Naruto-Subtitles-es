@@ -3220,7 +3220,7 @@ y explica tu base.
 
 806
 00:53:05,323 --> 00:53:09,077
-T-Esto es una... pregunta integrada basada en predicciones
+E-Esto es una... pregunta integrada basada en predicciones
 
 807
 00:53:09,160 --> 00:53:13,248
